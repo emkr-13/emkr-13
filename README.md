@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello yang datang, Perkenalkaan nama saya krisna sekarang sedang belajar menjadi tukang ketik aja 
+Hello yang datang, Perkenalkaan nama saya krisna sekarang sedang belajar menjadi tukang ketik dan suka belajar akan hal baru itu aja 
 
 
 # 💻 Tech Stack:
