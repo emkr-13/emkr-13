@@ -36,7 +36,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emkr-13&layout=compact&theme=onedark" alt=emkr-13 />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=emkr-13&theme=nord" alt="emkr-13" /></p>
 
