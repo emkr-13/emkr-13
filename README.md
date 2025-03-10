@@ -43,7 +43,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emkr-13&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emkr-13&theme=algolia&utcOffset=7" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emkr-13&theme=algolia" height="180em" />
-<img height="180em" align="center" src ="https://github-readme-stats.vercel.app/api?username=emkr-13&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-<img height="180em" align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=emkr-13">
-<img height="180em" align="center" src ="https://github-readme-streak-stats.herokuapp.com?user=emkr-13&theme=darcula&hide_border=true&background=FFFFFF00">
 </div>
