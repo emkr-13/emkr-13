@@ -129,7 +129,7 @@
 |-------|------------|
 | 💻 | Full Stack Developer with 3+ years of experience |
 | 🏗️ | Specialized in Laravel Admin Panels & REST APIs |
-| 🚀 | Built 15+ production applications |
+| 🚀 | Built 10+ production applications |
 | 🧠 | Passionate about clean architecture & scalable code |
 | 🌱 | Always learning new technologies & best practices |
 
