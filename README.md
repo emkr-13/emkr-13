@@ -15,7 +15,7 @@
 ## 💼 About Me
 
 ```
-🎯 Currently: Building robust admin panels with Laravel + Filament v3
+🎯 Currently: Building robust admin panels with Laravel + Filament 
 💡 Specializing: Full Stack Development | Backend Architecture | Database Design
 🌍 Tech Stack: PHP • JavaScript • Python • Go • Java
 🎓 Learning: Advanced backend patterns, DevOps & modern tooling
