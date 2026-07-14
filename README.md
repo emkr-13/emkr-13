@@ -127,7 +127,7 @@
 
 | 🏆 | Achievement |
 |-------|------------|
-| 💻 | Full Stack Developer with 5+ years of experience |
+| 💻 | Full Stack Developer with 3+ years of experience |
 | 🏗️ | Specialized in Laravel Admin Panels & REST APIs |
 | 🚀 | Built 15+ production applications |
 | 🧠 | Passionate about clean architecture & scalable code |
@@ -150,9 +150,7 @@
 
 ## 💡 Fun Facts
 
-- 🎮 Gaming enthusiast and open-source contributor
 - 📚 Tech blog reader and Podcast listener  
-- ⚡ Coffee-driven developer ☕
 - 🎨 UI/UX design enthusiast
 
 ---
