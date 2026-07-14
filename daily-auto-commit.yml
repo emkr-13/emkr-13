@@ -1,0 +1,28 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # Jam 08:00 WIB setiap hari
+  workflow_dispatch:
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Auto Bot"
+      
+      - name: Update timestamp
+        run: echo "Updated: $(date)" > TIMESTAMP.txt
+      
+      - name: Commit
+        run: |
+          git add .
+          git commit -m "🤖 Daily auto-commit" || exit 0
+          git push
