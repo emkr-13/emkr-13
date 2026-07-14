@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 Currently building admin panels with <b>Laravel + Filament v3</b> <br/>
+  🚀 Currently building admin panels with <b>Laravel + Filament </b> <br/>
   💻 Comfortable across the stack — <b>Laravel/PHP, Node.js, Python</b>, and modern frontend (React/Vue) <br/>
   🌱 Sedang belajar hal-hal baru seputar backend & tooling <br/>
   💬 Ask me about Laravel, PHP, Node.js, Python, or database design
