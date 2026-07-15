@@ -15,13 +15,40 @@
 ## 💼 About Me
 
 ```
-🎯 Currently: Building robust admin panels with Laravel + Filament 
+🎯 Currently: Full Stack Developer at Asia Quest Information
 💡 Specializing: Full Stack Development | Backend Architecture | Database Design
 🌍 Tech Stack: PHP • JavaScript • Python • Go • Java
 🎓 Learning: Advanced backend patterns, DevOps & modern tooling
 ```
 
 > **"Writing clean code that scales, today"** ✨
+
+---
+
+## 🏢 Professional Experience
+
+### **Asia Quest Information** 
+**Full Stack Developer** | *July 2025 - Present*
+
+<div align="center">
+  
+  [![Asia Quest GitHub](https://img.shields.io/badge/Work%20Profile-krisna--aqi-0078D4?style=for-the-badge&logo=github)](https://github.com/krisna-aqi)
+  
+</div>
+
+**Responsibilities & Achievements:**
+- 🛠️ **Application Maintenance** - Maintaining and improving existing applications for stability & performance
+- 🌐 **Web Development** - Building modern web applications using Laravel, Node.js, React, and Vue.js
+- 🔧 **Full Stack Solutions** - Developing both backend APIs and responsive frontend interfaces
+- 📱 **Feature Enhancement** - Implementing new features and optimizing existing codebase
+- 🐛 **Bug Fixes & Debugging** - Identifying and resolving issues across the stack
+- 💻 **Database Management** - Designing and optimizing database structures for various applications
+
+**Tech Stack Used:**
+- **Backend:** Laravel, Node.js, Express.js, PHP
+- **Frontend:** React.js, Vue.js, JavaScript, HTML/CSS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, Linux
 
 ---
 
@@ -127,11 +154,27 @@
 
 | 🏆 | Achievement |
 |-------|------------|
-| 💻 | Full Stack Developer with 3+ years of experience |
-| 🏗️ | Specialized in Laravel Admin Panels & REST APIs |
-| 🚀 | Built 10+ production applications |
-| 🧠 | Passionate about clean architecture & scalable code |
-| 🌱 | Always learning new technologies & best practices |
+| 💼 | Full Stack Developer at Asia Quest Information (July 2025 - Present) |
+| 🚀 | Maintaining & developing modern web applications |
+| 🏗️ | Specialized in Laravel + React/Vue applications |
+| 🛠️ | Building scalable backend APIs & responsive frontends |
+| 🌱 | Continuously learning new technologies & best practices |
+
+---
+
+## 👥 My GitHub Accounts
+
+<div align="center">
+
+### Personal Profile
+**@emkr-13** - Open source & personal projects  
+[![GitHub](https://img.shields.io/badge/-Personal%20Repo-181717?style=flat-square&logo=github)](https://github.com/emkr-13)
+
+### Professional Profile  
+**@krisna-aqi** - Asia Quest Information projects  
+[![GitHub](https://img.shields.io/badge/-Work%20Repo-0078D4?style=flat-square&logo=github)](https://github.com/krisna-aqi)
+
+</div>
 
 ---
 
@@ -139,8 +182,10 @@
 
 <div align="center">
   
+  [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emkr-13)
   [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emkr-13)
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emkr_13](https://x.com/emkr_13))
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emkr_13)
   
 </div>
 
@@ -148,8 +193,11 @@
 
 ## 💡 Fun Facts
 
+- 🎮 Gaming enthusiast and open-source contributor
 - 📚 Tech blog reader and Podcast listener  
+- ⚡ Coffee-driven developer ☕
 - 🎨 UI/UX design enthusiast
+- 🤖 Advocate for clean code & best practices
 
 ---
 
