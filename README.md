@@ -15,7 +15,7 @@
 ## 💼 About Me
 
 ```
-🎯 Currently: Full Stack Developer at Asia Quest Information
+🎯 Currently: Full Stack Developer at Asia Quest Indonesia
 💡 Specializing: Full Stack Development | Backend Architecture | Database Design
 🌍 Tech Stack: PHP • JavaScript • Python • Go • Java
 🎓 Learning: Advanced backend patterns, DevOps & modern tooling
