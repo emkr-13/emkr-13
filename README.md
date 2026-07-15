@@ -183,7 +183,6 @@
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emkr-13)
   [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emkr-13)
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/emkr_13)
   
@@ -193,9 +192,7 @@
 
 ## 💡 Fun Facts
 
-- 🎮 Gaming enthusiast and open-source contributor
 - 📚 Tech blog reader and Podcast listener  
-- ⚡ Coffee-driven developer ☕
 - 🎨 UI/UX design enthusiast
 - 🤖 Advocate for clean code & best practices
 
@@ -207,6 +204,6 @@
 
 ![Wave](https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430)
 
-*Last Updated: 2026-07-14* | 🤖 *Auto-updated daily*
+*Last Updated: 2026-07-15* | 🤖 *Auto-updated daily*
 
 </div>
