@@ -21,7 +21,7 @@ jobs:
           echo "Updated: $(date)" > TIMESTAMP.txt
       - name: Update README last updated date
         run: >
-          TODAY=$(date +'%Y-%m-%d')
+          TODAY=$(TZ='Asia/Jakarta' date +'%Y-%m-%d')
 
           sed -i "/<!-- LAST-UPDATED-START -->/,/<!-- LAST-UPDATED-END -->/c\\<!-- LAST-UPDATED-START -->\n*Last Updated: ${TODAY}* | 🤖 *Auto-updated daily*\n<!-- LAST-UPDATED-END -->" README.md
       - name: Commit and push
