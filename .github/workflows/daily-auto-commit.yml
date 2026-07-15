@@ -23,8 +23,5 @@ jobs:
       - name: Update timestamp
         run: echo "Updated: $(date)" > TIMESTAMP.txt
 
-      - name: Commit
-        run: |
-          git add .
-          git commit -m "Daily auto-commit" || exit 0
-          git push
+      - name: Commit and push
+        run: git add . && git commit -m "Daily auto-commit" || echo "Nothing to commit" && git push
